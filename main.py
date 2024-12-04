@@ -1,7 +1,3 @@
-# Họ và tên: Võ Đại Lượng
-# Mã số sinh viên: 22520834
-
-
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import accuracy_score, f1_score
 from sklearn.impute import SimpleImputer
